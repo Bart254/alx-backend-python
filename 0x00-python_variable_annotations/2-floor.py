@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
-""" Performs floor mat operation
-Modules:
-    math: contains floor() method, which is used in operation
+""" Performs floor math operation
 
 Functions:
     floor: returns the floor of a float
 """
-import math
 
 
 def floor(n: float) -> float:
@@ -18,4 +15,5 @@ def floor(n: float) -> float:
     Returns:
         float: the result of floor operation on the argument
     """
+    import math
     return math.floor(n)
