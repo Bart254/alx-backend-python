@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ Performs floor mat operation
 Modules:
     math: contains floor() method, which is used in operation

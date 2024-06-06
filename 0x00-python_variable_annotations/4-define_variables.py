@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ Variable annotation module
 
 The module shows how variable annotations is done on
