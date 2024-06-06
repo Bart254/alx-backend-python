@@ -6,14 +6,14 @@ Functions:
 """
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     """ Returns the floor of float arg
 
     Args:
         n (float): argument to perform floor operation on
 
     Returns:
-        float: the result of floor operation on the argument
+        int: the result of floor operation on the argument
     """
     import math
     return math.floor(n)
